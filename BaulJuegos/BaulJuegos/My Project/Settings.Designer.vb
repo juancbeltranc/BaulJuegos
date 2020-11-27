@@ -65,6 +65,18 @@ Namespace My
                 Me("nombreUser") = value
             End Set
         End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("")>  _
+        Public Property tipoMat() As String
+            Get
+                Return CType(Me("tipoMat"),String)
+            End Get
+            Set
+                Me("tipoMat") = value
+            End Set
+        End Property
     End Class
 End Namespace
 

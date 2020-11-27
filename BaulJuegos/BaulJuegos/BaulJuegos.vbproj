@@ -73,6 +73,24 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormFigura.Designer.vb">
+      <DependentUpon>FormFigura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormFigura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLecto.Designer.vb">
+      <DependentUpon>FormLecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMateOpera.Designer.vb">
+      <DependentUpon>FormMateOpera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMateOpera.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormInicio.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -103,11 +121,20 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FormFigura.resx">
+      <DependentUpon>FormFigura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLecto.resx">
+      <DependentUpon>FormLecto.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormInicio.resx">
       <DependentUpon>FormInicio.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMate.resx">
       <DependentUpon>FormMate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMateOpera.resx">
+      <DependentUpon>FormMateOpera.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -133,6 +160,29 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\pantallaInicio11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\arbol.png" />
+    <Content Include="Resources\avion.jpg" />
+    <Content Include="Resources\circuAzul.jpg" />
+    <Content Include="Resources\circurojo.jpg" />
+    <Content Include="Resources\cuadradoama.jpg" />
+    <Content Include="Resources\cuadradoazul.jpg" />
+    <Content Include="Resources\cuadradorojo.jpg" />
+    <Content Include="Resources\cuicuamarillo.jpg" />
+    <Content Include="Resources\elefabte.jpg" />
+    <Content Include="Resources\enano.jpg" />
+    <Content Include="Resources\iglesia.jpg" />
+    <Content Include="Resources\iman.jpg" />
+    <Content Include="Resources\mate.jpg" />
+    <Content Include="Resources\nube.jpg" />
+    <Content Include="Resources\oro.png" />
+    <Content Include="Resources\oso.jpg" />
+    <Content Include="Resources\triamarillo.jpg" />
+    <Content Include="Resources\triazul.jpg" />
+    <Content Include="Resources\trirojo.jpg" />
+    <Content Include="Resources\uva.jpg" />
+    <Content Include="Resources\uña.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

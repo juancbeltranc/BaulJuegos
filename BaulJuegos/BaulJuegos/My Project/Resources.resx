@@ -117,4 +117,110 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="avion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avion.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uva" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uva.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uña" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uña.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="oso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\oso.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nube" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nube.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iman" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iman.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enano" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\enano.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mate.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="oro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\oro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elefabte" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elefabte.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iglesia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iglesia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arbol1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="avion1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avion.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="circuAzul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\circuAzul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="circurojo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\circurojo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cuadradoama" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cuadradoama.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cuadradoazul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cuadradoazul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cuadradorojo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cuadradorojo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cuicuamarillo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cuicuamarillo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elefabte1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elefabte.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enano1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\enano.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iglesia1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iglesia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iman1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iman.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mate1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mate.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nube1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nube.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="oro1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\oro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="oso1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\oso.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pantallaInicio1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pantallaInicio1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pantallaInicio11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pantallaInicio11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="triamarillo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\triamarillo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="triazul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\triazul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trirojo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trirojo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uña1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uña.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uva1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uva.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
